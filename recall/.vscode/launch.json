@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StateEnumeration",
+            "request": "launch",
+            "mainClass": "StateEnumeration"
+        }
+    ]
+}
